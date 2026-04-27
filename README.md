@@ -3,6 +3,7 @@
 Optimize your spending with an AI-powered agent.
 
 ![Flowchart](data/flowchart.jpg)
+
 ## Setup
 
 ```bash

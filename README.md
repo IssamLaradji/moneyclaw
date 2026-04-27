@@ -61,7 +61,7 @@ The Notion component at `/notion` views and edits the AgentWatson page.
 - Click **+ New integration**, give it a name (e.g. `MoneyClaw`), select your workspace, click **Submit**
 - Copy the **Internal Integration Secret** — this is your `NOTION_API_KEY`
 - Add it to your `.env`: `NOTION_API_KEY=secret_xxx...`
-- Open the page https://www.notion.so/AgentWatson-34e1a0b0cce9805384e3da741f057fe9 in Notion
+- Open your page in Notion
 - Click the **⋯** menu (top-right) → **Connect to** → select your integration
 - The integration now has access to read and edit that page
 

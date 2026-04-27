@@ -3,7 +3,6 @@ token.json
 credentials.json
 data/telegram_offset.txt
 data/gmail_messages*.json
-data/flowchart.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -2,7 +2,7 @@
 
 Optimize your spending with an AI-powered agent.
 
-![data/flowchart.jpg](data/flowchart.jpg)
+![Flowchart](data/flowchart.png)
 ## Setup
 
 ```bash

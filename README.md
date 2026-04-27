@@ -89,3 +89,23 @@ The Web Search component at `/search` uses the Brave Search API.
 - Navigate to **API Dashboard → New Subscription** and choose the free **Data for Search** plan
 - Copy the generated API key
 - Add it to your `.env`: `BRAVE_API_KEY=BSA...`
+
+## Screenshots
+
+**Landing Page**
+![Landing](data/1_landing.jpg)
+
+**Flowchart**
+![Flowchart](data/2_flowchart.jpg)
+
+**Components**
+![Components](data/3_components.jpg)
+
+**Web Search Component**
+![Web Search](data/4_component_websearch.jpg)
+
+**Workflows**
+![Workflows](data/5_workflows.jpg)
+
+**Chat with AI on Telegram**
+![Chat with AI on Telegram](data/6_workflow_chat_with_telegram.jpg)

@@ -3,7 +3,7 @@
 Optimize your spending with an AI-powered agent.
 
 Run the app with `python app.py`
-```
+
 
 ## Screenshots
 

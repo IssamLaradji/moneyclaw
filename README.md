@@ -2,25 +2,29 @@
 
 Optimize your spending with an AI-powered agent.
 
-![Flowchart](data/flowchart.jpg)
-
-## Setup
-
-```bash
-uv venv && uv pip install -r requirements.txt
+Run the app with `python app.py`
 ```
 
-Set your OpenRouter API key:
-```bash
-export OPENROUTER_API_KEY=your_key_here
-```
+## Screenshots
 
-Run the app:
-```bash
-python app.py
-```
+**Landing Page**
+![Landing](data/1_landing.jpg)
 
-Visit http://localhost:7010
+**Flowchart**
+![Flowchart](data/2_flowchart.jpg)
+
+**Components**
+![Components](data/3_components.jpg)
+
+**Web Search Component**
+![Web Search](data/4_component_websearch.jpg)
+
+**Workflows**
+![Workflows](data/5_workflows.jpg)
+
+**Chat with AI on Telegram**
+![Chat with AI on Telegram](data/6_workflow_chat_with_telegram.jpg)
+
 
 ## AI Agent
 
@@ -90,22 +94,3 @@ The Web Search component at `/search` uses the Brave Search API.
 - Copy the generated API key
 - Add it to your `.env`: `BRAVE_API_KEY=BSA...`
 
-## Screenshots
-
-**Landing Page**
-![Landing](data/1_landing.jpg)
-
-**Flowchart**
-![Flowchart](data/2_flowchart.jpg)
-
-**Components**
-![Components](data/3_components.jpg)
-
-**Web Search Component**
-![Web Search](data/4_component_websearch.jpg)
-
-**Workflows**
-![Workflows](data/5_workflows.jpg)
-
-**Chat with AI on Telegram**
-![Chat with AI on Telegram](data/6_workflow_chat_with_telegram.jpg)

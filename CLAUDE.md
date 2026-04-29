@@ -1,6 +1,6 @@
 # MONEYCLAW
 
-
+## CODE STRUCTURE
 - **`src/workflows/`** — workflows that are combinations of components
 - **`src/components/`** — tools and data connectors like access_gmail and access_calendar
 

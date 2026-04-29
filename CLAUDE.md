@@ -1,4 +1,4 @@
-# 💸 MONEYCLAW
+# CLAUDE.md
 
 ## 🧱 Code Structure
 - 📁 `src/workflows/` workflows combining components  
